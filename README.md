@@ -4,7 +4,7 @@ Key Features
 **Task Management:**
 Tasks can be added, dragged between columns, checked as completed, or deleted.
 Tasks are persisted in localStorage with metadata (text, completion status, timestamps).
-****Drag-and-Drop:**
+**Drag-and-Drop:**
 Supports moving tasks between Tasks, Pending, and Completed columns.
 Updates task status (e.g., checked and strikethrough for completed tasks).
 **Color Picker:**
